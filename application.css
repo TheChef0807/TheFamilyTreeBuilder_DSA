@@ -1,0 +1,73 @@
+#publisher-box {
+
+    -fx-background-color: olivegreen;
+    -fx-font-family: Arial, sans-serif;
+    -fx-text-fill: white;
+    -fx-padding: 0;
+    -fx-margin: 0;
+}
+
+.container {
+    -fx-max-width: 900px;
+    -fx-margin: 0 auto;
+    -fx-padding: 20px;
+    -fx-text-alignment: center;
+}
+
+.label-title {
+    -fx-font-size: 2.5em;
+    -fx-font-weight: bold;
+    -fx-text-fill: black;
+    -fx-alignment: center;
+}
+
+.form-section, .tree-section {
+    -fx-margin-top: 20px;
+    -fx-padding: 15px;
+    -fx-background-color: #4a5c41;
+    -fx-border-radius: 8px;
+}
+
+.form-section .label {
+    -fx-font-weight: bold;
+}
+
+.text-field, .combo-box, .button {
+    -fx-padding: 10px;
+    -fx-margin: 5px 0;
+    -fx-font-size: 1rem;
+    -fx-border-radius: 5px;
+    -fx-border-color: none;
+}
+
+.button {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+    -fx-cursor: hand;
+}
+
+.button:hover {
+    -fx-background-color: white;
+    -fx-text-fill: black;
+}
+
+.table {
+    -fx-margin-top: 15px;
+    -fx-border-collapse: collapse;
+    -fx-alignment: center;
+}
+
+.table .header {
+    -fx-background-color: black;
+    -fx-text-fill: white;
+    -fx-border-color: white;
+    -fx-padding: 8px;
+}
+
+.table .cell {
+    -fx-border-color: white;
+    -fx-padding: 8px;
+    -fx-text-alignment: center;
+}
+
+}
