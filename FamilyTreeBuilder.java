@@ -191,3 +191,6 @@ public class FamilyTreeBuilder extends Application {
         launch(args);
     }
 }
+
+// Andrew Jacob M. lomanta Role:Leader 09163959320 cobielomanta@gmail.com
+// John Kairos M. Amoguis Role:Script Writer and  Editor 09292454052 jkamoguis04@gmail.com
